@@ -29,11 +29,21 @@ theme = "raditian-theme"
   name = "About"
   URL = "#about"
   weight = 2
+  
+  [[menu.header]]
+  name = "Linkedin"
+  URL = "https://www.linkedin.com/in/christopher-mann-2706048b"
+  weight = 4
 
   [[menu.footer]]
   name = "About"
   URL = "#about"
   weight = 2
+  
+  [[menu.footer]]
+  name = "Linkedin"
+  URL = "https://www.linkedin.com/in/christopher-mann-2706048b"
+  weight = 4
 
 [params]
 
