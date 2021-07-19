@@ -1,0 +1,89 @@
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Chris Mann"
+  subtitle: "Network IT Specialist"
+  description: "I have been in the IT industry all of my working career in one guise or another.
+  Having taken semi retirement i am now using my IT skills to help family and friends.
+  I have been told so may times that i should set up my onw buisiness, and until now i have been happy doing the odd job here and there. However, after receiving a big push from a local customer i have now taken the plunge and started my own buisiness"
+  
+  image:
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase@2x.png"
+  imageMobile:
+    x: "img/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "mailto:christopher-mann@msn.com?subject=Enquiery"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/christopher-mann-2706048b"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: '<p class="lead">
+    My areas of focus lie in designing home and small buisiness Wired and Wireless Networks.
+    This can be as small as a single user home network, or a  small buisiness with a Wired and Wireless network with multiple users.
+    Both scenarios are treated the same and it is essential that the customers requirements and expectations are clarified at the onset.
+    I also offer assistance with the configuration and setiup of end end user devices, beit Mac, PC or peripheral devices.
+    I endevour to treat each customer as if i were dealing with my own home or buisiness, carry out the work to the best of my ability and provide a good customer experience through out the process
+   
+   
+    </p>'
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/christopher-mann-2706048b"
+  image:
+    x: "img/who-am-i/user-picture.png"
+    _2x: "img/who-am-i/user-picture@2x.png"
+    
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Hele's High School Exeter"
+      year: "1976 - 1980"
+      degree: "O Levels"
+      
+    - university: "Royal signals Army Apprentice college, Harrogate"
+      year: "1980 - 1982"
+      degree: "City n Guilds communications Certificate 777"
+              
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "I have 25 years experience in the Public Sector having served 25 years with the
+  Devon & Cornwall Police. Here i have honed my network skills gaining qualifications with Cisco (CCNA, CCDA, CCNA Voice)
+  and AWS (AWS Practitioner). i also utilised my Radio (RF) experience gained in the Royal Corps of Siganls when implementing
+  the Airwave Communication system and the Forces Cisco Corporate Enterprise Wi-Fi solution"
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/company/radity/"
+
+  items:
+    - title: "Communications Room Radio Op / Supervisor"
+      company: "Devon & Cornwall Police"
+      duration: "1995 - 2001"
+
+    - title: "Airwave Technical Analyst"
+      company: "Devon & Cornwall Police"
+      duration: "2001 - 2014"
+
+    - title: "Network Engineer & Network Manager"
+      company: "Devon & Cornwall Police"
+      duration: "2014 - 2020"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "mailto:christopher-mann@msn.com?subject=Enquiery"
+     
