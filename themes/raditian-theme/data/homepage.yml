@@ -3,10 +3,14 @@ showcase:
   enable: true
   title: "Hello, I’m Chris Mann"
   subtitle: "Network IT Specialist"
-  description: "I have been in the IT industry all of my working career in one guise or another.
-  Having taken semi-retirement i am now using my IT skills to help family and friends.
-  I have been told so many times that i should set up my own buisness, and until now i have been happy doing the odd job here and there. However, after receiving a big push from a local customer i have now taken the plunge and started my own buisness"
-  
+  description: "I've spent an entire career spanning 40 years in the IT industry in one guise or another.
+
+Having retired from my role as a Network Manager & Engineer, I'm now using my extensive IT skills and qualifications to help family, friends and local businesses with their technical queries.
+
+I've been told many times that I should set up my own business, and until now, have been happy doing the odd job for satisfied family members, friends and referrals. However, after receiving a big push from a local client, I've now taken the plunge and started my own specialist IT business to continue putting my experience into action. 
+
+Please get in touch if you want to find out how I can help you. I'd love to hear from you."
+
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
@@ -27,11 +31,12 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    My areas of focus lie in designing home and small buisness Wired and Wireless Networks.
-    This can be as small as a single user home network, or a small buisiness with a Wired and Wireless network for multiple users.
-    Both scenarios are treated the same and it is essential that the customers requirements and expectations are clarified at the onset.
-    I can also offer assistance with the configuration and setup of end user devices, be it Mac, PC or peripheral devices.
-    I endeavour to treat each customer as if i were dealing with my own home or buisness network, carry out the work to the best of my ability and provide a good customer experience throughout the process.
+    My area of expertise lies in designing Wired and Wireless Networks for homes and small businesses. 
+    In the past this has ranged from single user home Networks to smaller businesses with both Wired and Wireless Networks and multiple users. 
+    I am also fully proficient in advising and executing the configuration and setup of end user devices including Mac, PC or peripheral devices. 
+    Of course, both scenarios are treated equally, and I will always treat each client with respect and fairness, as if I were dealing with my own home or business. 
+    We will work together to ensure your requirements are understood and expectations clarified from the outset. 
+    Throughout the process you will also be kept up to date with progress and developments to ensure transparency
    
    
     </p>'
@@ -48,10 +53,15 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "I have 25 years experience in the Public Sector having served 25 years with the
-  Devon & Cornwall Police. Here i have honed my network skills gaining qualifications with Cisco (CCNA, CCDA, CCNA Voice)
-  and AWS (AWS Practitioner). i also utilised my Radio (RF) experience gained in the Royal Corps of Siganls when implementing
-  the Airwave Communication system and the Forces Cisco Corporate Enterprise Wi-Fi solution"
+  description: "For the past 25 years, I've worked in the public sector with the Devon & Cornwall Police.  
+  This experience has enabled me to hone my Network skills, lead a committed team of Network engineers, 
+  and gain prestigious qualifications with Cisco, the worldwide leader in IT, networking and cybersecurity solutions. 
+  I'm CCNA, CCDA, CCNA Voice qualified and I'm an Amazon Web Services (AWS) Practitioner. 
+  I take these qualifications very seriously and am an advocate for continuous development and ongoing study, ensuring my knowledge remains current and relevant. 
+
+Throughout my career, I've also been able to utilise my radio (RF) experienced gained in the Royal Corps of Signals when implementing the Airwave Communications system, 
+and Devon & Cornwall Police's Cisco Corporate Enterprise Wi-Fi solution
+"
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
