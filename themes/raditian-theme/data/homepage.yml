@@ -43,18 +43,6 @@ about:
     x: "img/who-am-i/user-picture.png"
     _2x: "img/who-am-i/user-picture@2x.png"
     
-# education
-education:
-  enable: true
-  title: "Education"
-  items:
-    - university: "Hele's High School Exeter"
-      year: "1976 - 1980"
-      degree: "O Levels"
-      
-    - university: "Royal signals Army Apprentice college, Harrogate"
-      year: "1980 - 1982"
-      degree: "City n Guilds communications Certificate 777"
               
 # experience
 experience:
