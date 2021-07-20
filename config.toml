@@ -55,9 +55,3 @@ theme = "raditian-theme"
     text1 = "Christopher"
     text2 = "Mann"
 
-  [params.footer]
-      copyright = "© Raditian. All rights reserved."
-      [params.footer.radity_logo]
-        x = "img/general/design-and-code-radity.png"
-        _2x = "img/general/design-and-code-radity@2x.png"
-        alt = "Design & Code - Radity"
